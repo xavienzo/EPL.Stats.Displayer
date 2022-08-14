@@ -1,0 +1,13 @@
+name: epl_stats
+title: epl_stats
+username:
+account: xavienzo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3389599
+bundleId: 3981625
+url: https://xavienzo.shinyapps.io/EPL_Stats/
+when: 1607841082.27044
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
