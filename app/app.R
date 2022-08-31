@@ -11,9 +11,9 @@
 library(shiny)
 library(shinythemes)
 library(shinydashboard)
-library(tidyverse)
 library(plotly)
 library(ggthemes)
+library(tidyverse)
 library(rvest)
 library(wesanderson)
 
